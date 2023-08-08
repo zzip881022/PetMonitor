@@ -11,7 +11,7 @@ UI使用Python TKinter 套件
 辨識模型權重檔有TPU使用 hamster-int8_edgetpu.tflite，沒有請改用hamster-int8.tflite
 
 #功能與成果
-如成果.PPT內
+如成果.pdf內
 
 #器材
 樹莓派Pi4、GOOGLE TPU、L9110 2路馬達驅動模組、自走車套件(IC Shop)、webcamera
